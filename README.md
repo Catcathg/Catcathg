@@ -40,7 +40,7 @@
 </h2>
 <h2 align="center">... or just take a look of my GH repositories just down below!</h2>
 <div align="center">
-<img src="https://media.tenor.com/bwC5EGSZ3rUAAAAi/white-bear.gif" width="480" height="270" />
+<img src="https://media1.tenor.com/m/n9ufZwKOUq0AAAAd/cat-kitty.gif" width="480" height="270" />
 </div>
 <h2 align="center">
 &nbsp; <a href="https://github.com/Catcathg?tab=repositories" target="_blank" rel="noopener noreferrer"><strong><img height="65" src="gh.png"></strong></a>  
