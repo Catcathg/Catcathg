@@ -33,7 +33,7 @@
 
 <h1 align="center">⬇ Connect with Me ⬇</h2>
 <h2>
-&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><strong><img height="25" src="www.png"> : [My website coming soon]</strong></a>  
+&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><strong><img height="25" src="site.png"> : [My website coming soon]</strong></a>  
 </h2>
 <h2>
 &nbsp; <a href="https://www.linkedin.com/in/cathguo" target="_blank" rel="noopener noreferrer"><strong><img height="25" src="linkedin.png"> : My LinkedIn Profile</strong></a>  
